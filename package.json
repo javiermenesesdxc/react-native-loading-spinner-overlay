@@ -15,7 +15,7 @@
     "eslint-plugin-react-native": "^1.2.0",
     "prop-types": "^15.5.10"
   },
-  "homepage": "https://github.com/joinspontaneous/react-native-loading-spinner-overlay",
+  "homepage": "https://github.com/javiermenesesdxc/react-native-loading-spinner-overlay",
   "keywords": [
     "activity",
     "android",
@@ -39,7 +39,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/joinspontaneous/react-native-loading-spinner-overlay.git"
+    "url": "git+ssh://git@github.com/javiermenesesdxc/react-native-loading-spinner-overlay.git"
   },
   "scripts": {
     "lint": "node_modules/.bin/eslint src",
